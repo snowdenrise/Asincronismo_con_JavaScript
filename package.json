@@ -1,0 +1,17 @@
+{
+  "name": "asincronismo_con_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conceptos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jonatan Serna",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
